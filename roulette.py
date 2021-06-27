@@ -3,7 +3,7 @@
 # PURPOSE:   This script runs the gambling method in American or European
 #            Roulette. This script just allows for keeping a constant bet on
 #            BLACK.
-# AUTHOR:    Harsh Saxena, SDSU ID: 827221298
+# AUTHOR:    Harsh Saxena
 # DATE:      June 12, 2021
 ###############################################################################
 import random
